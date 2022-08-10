@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+body
+{
+    background-color: hsl(30, 38%, 92%);
+    width: 1440px;
+    max-width: 1440px;
+}
+#main
+{
+    background-color: white;
+    background-image: url(/images/image-product-desktop.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    width: 615px;
+    height: 459px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+
+p
+{
+    font-size: 14px;
+}
+.one
+{
+    padding: 16px 0px 0px 345px;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    
+    
+}
+.two
+{
+    padding: 0px 0px 0px 345px;
+    font-family: 'Fraunces', serif;
+    margin: 0px 32px 0px 0px;
+    
+}
+.three
+{
+
+    padding: 0px 0px 31px 345px;
+    margin: 0px 27px 0px 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+
+       
+}
+.price
+{
+    padding: 0px 0px 0px 345px;
+    font-family: 'Fraunces', serif;
+    font-size: 32px;
+    color: hsl(158, 36%, 37%);
+}
+.secp
+{
+    text-decoration: line-through;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    font-size: 14px;
+}
+button
+{
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 6px;
+    border: none;
+    width: 250px;
+    height: 52px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 14px;
+    margin: 32px 0px 10px 337px;
+    
+}
+.bttn
+{
+    margin: 0px 13px 0px 0px;
+    width: 16px;
+
+}
+button:hover
+{
+    background-color: rgb(32, 61, 50);
+}
