@@ -9,7 +9,7 @@ body
 #main
 {
     background-color: white;
-    background-image: url('images/image-product-desktop.jpg');
+    background-image: url(../images/image-product-desktop.jpg);
     background-size: 50%;
     background-repeat: no-repeat;
     width: 615px;
